@@ -1,6 +1,9 @@
 ```table-of-contents
 ```
-
+- [The Concept](app://obsidian.md/index.html#The%20Concept)
+    - [What notes are in here?](app://obsidian.md/index.html#What%20notes%20are%20in%20here?)
+    - [What else?](app://obsidian.md/index.html#What%20else?)
+- [Tags](app://obsidian.md/index.html#Tags)
 
 ---
 creation date: 2025-01-10 19:47
